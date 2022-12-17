@@ -9,7 +9,7 @@ sample screenshots below 👇👇
 
 📌final output with live 3d option to scroll 👇👇
 ![newplot](https://user-images.githubusercontent.com/83171692/208228401-38e6a42d-2109-4c89-87c5-2f6d83132bba.png)
->> This output shows the covid data in all countries with respect to the number of cases in each respectfully. check above link for a detailed video
+>> This output shows the covid data in all countries with respect to the number of cases in each respectfully. Check the first link for a detailed video
 
 
 
