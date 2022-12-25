@@ -1,7 +1,7 @@
 # Covid19R-studio
 Files with the realtime API covid 19 data for analysis and visualization. It works with Realtime-Api for data ingestion. So when running -> refersh the code once and run . Fist run "covid-world.R "file ,contains the main  source code for files with detail comments on each code written for better understanding
 
-check the link -> https://drive.google.com/file/d/1FJ8SgqdM9fH1caI6FWpwcv7b_QGKvrKf/view?usp=sharing  
+check the link [Video] -> https://drive.google.com/file/d/1FJ8SgqdM9fH1caI6FWpwcv7b_QGKvrKf/view?usp=sharing  
 
 sample screenshots below 👇👇
 
